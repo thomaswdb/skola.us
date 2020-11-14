@@ -1,0 +1,61 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skola.us" resolutions="1x" timestamp="1605327654426">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4150926131" ref="index"/>
+    <file name="nomq_index.css" crc="4018492639" ref="index"/>
+    <file name="results.css" crc="506187403" ref="results"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:results"/>
+    <file name="museutils.js" crc="3939489907" ref="index:results"/>
+    <file name="whatinput.js" crc="86476730" ref="index:results"/>
+    <file name="museconfig.js" crc="128606099" ref="index:results"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:results"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:results"/>
+  </folder>
+  <folder name="images">
+    <file name="skola-courses-favicon.ico" crc="3995028862" ref="index"/>
+    <file name="skolaus logo730x162.png" crc="3780148702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl learning2018x1632.png" crc="4094498487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl learning1454x1176.png" crc="4093569845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skolaus logo805x179.png" crc="4123175618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl learning-crop-u107.png" crc="294022188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skolaus logo645x144.png" crc="428273967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl learning-crop-u1072.png" crc="102356702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skolaus logo417x93.png" crc="4220834577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl learning-crop-u1073.png" crc="159012695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skolaus logo178x40.png" crc="510300306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="lay-moreira-canay-carolina-72759.svg" crc="4143620562" seo="true" ref="results">
+      <caption webpage="results" alt=""/>
+    </file>
+    <file name="lay moreira canay carolina 72759_poster_.png" crc="4047456324" ref="results"/>
+    <file name="pasted-svg-1692x168.svg" crc="496701615" seo="true" ref="results">
+      <caption webpage="results" alt=""/>
+    </file>
+    <file name="pasted svg 1692x168_poster_.png" crc="4149283354" ref="results"/>
+  </folder>
+  <file name="index.html" crc="4156305188" seo="true" mt="1605327466772" redirect="true"/>
+  <file name="results.html" crc="4266088963" seo="true" mt="1605327634979" redirect="true"/>
+</manifest>
